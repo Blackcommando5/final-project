@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842683504250",
+    "project_id": "final-year-b135d",
+    "storage_bucket": "final-year-b135d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842683504250:android:0adb62a3da3fbf96de8dc3",
+        "android_client_info": {
+          "package_name": "com.example.metting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOMN505zsrfLr2qCwWc0jTqKZl8HcMBzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
